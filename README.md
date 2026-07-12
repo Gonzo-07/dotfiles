@@ -33,3 +33,5 @@ https://github.com/user-attachments/assets/c76ea3f9-3eaa-45b4-b5c6-92132c4d90b8
 |---|---|
 | `Mod + Shift + H` | Swap the window or column to the left |
 | `Mod + Shift + L` | Swap the window or column to the right |
+
+> Everything else is basicly default niri with some style tweaks like the Dankbar 
